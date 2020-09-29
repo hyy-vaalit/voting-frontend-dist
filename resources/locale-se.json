@@ -1,7 +1,7 @@
 {
   "index": {
     "menu": {
-      "title": "Delegationsval 2018",
+      "title": "Delegationsval 2020",
       "sign_up": "Logga in",
       "elections": "Rösta",
       "profile": "Egna uppgifter",
@@ -31,21 +31,21 @@
       "no_voting_right": {
         "title": "Ingen Rösträtt",
         "lead": "Din student nummer har ingen rösträtt vid valet.",
-        "body": "Var god kontakta HUS valarbetare i händelse av ett fel.",
+        "body": "Var god kontakta HUS valkordinator i händelse av ett fel.",
         "button_caption": "Återvänd till framsidan"
       },
 
       "invalid_saml_response": {
         "title": "Fel i inloggning",
         "lead": "Samarbetet med inloggningstjänst misslyckades",
-        "body": "Om problemet upprepas, kontakta HUS valarbetare.",
+        "body": "Om problemet upprepas, kontakta HUS valkordinator.",
         "button_caption": "Försök igen"
       },
 
       "general": {
         "title": "Okänt fel",
         "lead": "Något gick fel av okänd anledning.",
-        "body": "Om problemet upprepas, kontakta HUS valarbetare.",
+        "body": "Om problemet upprepas, kontakta HUS valkordinator.",
         "button_caption": "Försök igen"
       }
 
@@ -75,7 +75,7 @@
       "voting_days_are": "Röstningen pågår {{ firstPeriod }} och {{ secondPeriod }}",
       "voting_open_hours_are": "Röstningen är öppen mellan {{ range }}.",
       "primary_button_caption": "Logga in",
-      "if_cannot_sign_in": "Om du inte kan få tillgång till universitets användarkonto eller loggning in misslyckas av någon anledning, kontakta valarbetare {{ name }}, {{ email }}, {{ phone }}.",
+      "if_cannot_sign_in": "Om du inte kan få tillgång till universitets användarkonto eller loggning in misslyckas av någon anledning, kontakta valkordinator {{ name }}, {{ email }}, {{ phone }}.",
       "sign_in_is_not_active": "Röstningen är inte öppen just nu.",
 
       "edari": {
@@ -92,7 +92,7 @@
         "spam_instructions":
           "Glöm inte att kolla skräppostlådan i e-posten ifall du inte får någon inloggningslänk.",
         "in_case_of_fire":
-          "I sista hand kan du kontakta HUS valarbetare, <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a> eller per telefon +358 46 921 7850.",
+          "I sista hand kan du kontakta HUS valkordinator <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a>.",
 
         "attention": "Obs!",
         "election_dates_explained":
@@ -114,9 +114,9 @@
         "something_went_wrong": {
           "detail": "Länken kunde inte skickas.",
           "if_happens_again":
-            "Om problemet upprepas, kontakta HUS valarbetare, vaalit@hyy.fi eller +358 46 921 7850.",
+            "Om problemet upprepas, kontakta HUS valkordinator vaalit@hyy.fi.",
           "pls_explain":
-            "Förklara för valarbetaren vad som gick fel:"
+            "Förklara vad som gick fel:"
         },
 
         "errors": {
@@ -231,7 +231,7 @@
       "more_info": "Mera information",
       "hyy_ae_link_caption": "HUS webbsidor om förvaltningsvalet",
       "hyy_election_link_caption": "HUS webbsidor om valet",
-      "in_case_of_fire": "Vid problem, kontakta HUS valarbetare."
+      "in_case_of_fire": "Vid problem, kontakta HUS valkordinator"
     }
   }
 }

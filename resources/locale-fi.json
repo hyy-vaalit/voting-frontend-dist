@@ -1,7 +1,7 @@
 {
   "index": {
     "menu": {
-      "title": "Edustajistovaalit 2018",
+      "title": "Edustajistovaalit 2020",
       "sign_up": "Kirjaudu",
       "elections": "Äänestä",
       "profile": "Omat Tiedot",
@@ -31,21 +31,21 @@
       "no_voting_right": {
         "title": "Ei äänioikeutta",
         "lead": "Opiskelijanumerollasi ei ole äänioikeutta.",
-        "body": "Ongelmatilanteessa ota yhteys HYYn vaalityöntekijään.",
+        "body": "Ongelmatilanteessa ota yhteys HYYn vaalikoordinaattoriin.",
         "button_caption": "Palaa etusivulle"
       },
 
       "invalid_saml_response": {
         "title": "Kirjautumisvirhe",
         "lead": "Yhteistyö yliopiston kirjautumispalvelun kanssa epäonnistui.",
-        "body": "Jos ongelma ei poistu uudella yrityksellä, ota yhteys HYYn vaalityöntekijään.",
+        "body": "Jos ongelma ei poistu uudella yrityksellä, ota yhteys HYYn vaalikoordinaattoriin.",
         "button_caption": "Yritä uudelleen"
       },
 
       "general": {
         "title": "Tuntematon virhe",
         "lead": "Jotain meni tuntemattomasta syystä pieleen.",
-        "body": "Ongelmatilanteessa ota yhteys HYYn vaalityöntekijään.",
+        "body": "Ongelmatilanteessa ota yhteys HYYn vaalikoordinaattoriin.",
         "button_caption": "Yritä uudelleen"
       }
 
@@ -75,7 +75,7 @@
       "voting_days_are": "Äänestyspäivät ovat {{ firstPeriod }} ja {{ secondPeriod }}",
       "voting_open_hours_are": "Äänestys on avoinna klo {{ range }} välisenä aikana.",
       "primary_button_caption": "Kirjaudu sisään",
-      "if_cannot_sign_in": "Mikäli et voi käyttää yliopiston käyttäjätunnusta tai sisäänkirjautuminen ei jostain syystä onnistu, ota yhteys HYYn vaalityöntekijään {{ name }}, {{ email }}, {{ phone }}.",
+      "if_cannot_sign_in": "Mikäli et voi käyttää yliopiston käyttäjätunnusta tai sisäänkirjautuminen ei jostain syystä onnistu, ota yhteys HYYn vaalikoordinaattoriin {{ name }}, {{ email }}, {{ phone }}.",
       "sign_in_is_not_active": "Äänestäminen ei ole tällä hetkellä avoinna.",
 
       "edari": {
@@ -92,7 +92,7 @@
         "spam_instructions":
           "Tarkista myös sähköpostisi roskapostikansio, mikäli et saa sisäänkirjautumislinkkiä.",
         "in_case_of_fire":
-          "Viime kädessä ota yhteys HYYn vaalityöntekijään <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a> tai +358 46 921 7850.",
+          "Viime kädessä ota yhteys HYYn vaalikoordinaattoriin <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a>.",
 
         "attention": "Huom!",
         "election_dates_explained":
@@ -114,9 +114,9 @@
         "something_went_wrong": {
           "detail": "Linkkiä ei voitu lähettää.",
           "if_happens_again":
-            "Jos ongelma toistuu, ota yhteys HYYn vaalityöntekijään HYYn vaalityöntekijään vaalit@hyy.fi +358 46 921 7850.",
+            "Jos ongelma toistuu, ota yhteys HYYn vaalikoordinaattoriin vaalit@hyy.fi.",
           "pls_explain":
-            "Kerro vaalityöntekijälle virheen tekninen syy:"
+            "Kerro meille virheen tekninen syy:"
         },
 
         "errors": {
@@ -230,7 +230,7 @@
       "more_info": "Lisätietoa",
       "hyy_ae_link_caption": "HYYn hallintovaalisivusto",
       "hyy_election_link_caption": "HYYn vaalisivusto",
-      "in_case_of_fire": "Ongelmatilanteessa ota yhteys HYYn vaalityöntekijään"
+      "in_case_of_fire": "Ongelmatilanteessa ota yhteys HYYn vaalikoordinaattoriin"
     }
   }
 }

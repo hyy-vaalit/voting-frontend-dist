@@ -1,7 +1,7 @@
 {
   "index": {
     "menu": {
-      "title": "Council Elections 2018",
+      "title": "Council Elections 2020",
       "sign_up": "Sign Up",
       "elections": "Vote",
       "profile": "Eligibility",
@@ -92,7 +92,7 @@
         "spam_instructions":
           "In case you didn't receive the link, please also check your spam folder.",
         "in_case_of_fire":
-          "If everything else fails, please contact the election staff of the Student Union <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a> or +358 46 921 7850.",
+          "If everything else fails, please contact the election staff of the Student Union <a href='mailto:vaalit@hyy.fi'>vaalit@hyy.fi</a>.",
 
         "attention": "Please Notice:",
         "election_dates_explained":
@@ -114,7 +114,7 @@
         "something_went_wrong": {
           "detail": "We were unable to send you the link.",
           "if_happens_again":
-            "If the problem happens again, please contact the election staff of the Student Union vaalit@hyy.fi +358 46 921 7850.",
+            "If the problem happens again, please contact the election staff of the Student Union vaalit@hyy.fi.",
           "pls_explain":
             "Please let us know the technical error message:"
         },
