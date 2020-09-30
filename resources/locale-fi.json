@@ -12,8 +12,6 @@
   "pages": {
     "main": {
       "page_title": "Edustajistovaalit",
-      "you_may_check_eligibility":
-        "Voit tarkastaa vaalikelpoisuutesi tilaamalla sisäänkirjautumislinkin sähköpostiosoitteeseen, jonka olet ilmoittanut 15.9.2015 mennessä Helsingin yliopiston opiskelijarekisteriin.",
       "sign_in_using_university_account":
         "Kirjaudu sisään Helsingin yliopiston käyttäjätunnuksellasi.",
       "eligibility_check": "Vaalikelpoisuuden tarkastaminen",
@@ -172,8 +170,6 @@
       "coalition-index-text": "Vaalirenkaat koostuvat vaaliliitoista ja vaaliliitot koostuvat ehdokkaista.",
       "voting-right-already-used": "Olet käyttänyt äänioikeutesi",
       "vote-has-been-cast": "Äänesi on kirjattu!",
-      "if-you-are-eligible-in-others": "Jos sinulla on äänioikeus useassa vaalissa,",
-      "choose-next-election": "valitse seuraava vaali",
       "close-window-when-finished": "Sulje lopuksi selainikkuna.",
 
       "search": {
@@ -192,14 +188,12 @@
       "sign_up_please": "Pääset äänestämään sen jälkeen, kun olet kirjautunut sisään.",
       "sign_up_button_caption": "Aloitetaan!",
 
-      "you_can_vote_in_the_following": "Voit äänestää seuraavissa vaaleissa:",
       "choose_election": "Avaa vaali, valitse ehdokas ja paina \"äänestä\".",
       "submit_vote_help": "Äänesi rekisteröidään, kun painat \"äänestä\"-nappia ehdokkaan valitsemisen jälkeen.",
       "vote_is_immutable": "Et voi muuttaa antamaasi ääntä jälkikäteen.",
 
       "table_header": {
-        "election_name": "Vaalin nimi",
-        "status": "Äänestetty"
+        "election_name": "Vaalin nimi"
       },
 
       "not_started": {
