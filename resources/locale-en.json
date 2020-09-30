@@ -14,14 +14,11 @@
       "page_title": "Council Elections",
       "sign_in_using_university_account":
         "Sign in using your account of the University of Helsinki.",
-      "eligibility_check": "Eligibility for the elections",
       "voting_opening_hours": "Voting is open between {{ open }} - {{ close }}.",
       "voting_opens_at": "Voting opens at",
       "voting_has_ended": "Voting has ended.",
       "result_will_be_published_at": "Result will be published at",
       "voting_continues_at": "Voting continues {{ day }} at {{ time }}",
-
-      "button_caption_eligibility": "Check Eligibility",
       "button_caption_vote": "Let's Vote!"
     },
 
