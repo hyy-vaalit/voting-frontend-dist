@@ -132,8 +132,6 @@
     "profile": {
       "page_title": "Omat tiedot",
       "ingress": "Olet kirjautunut sisään seuraavin tiedoin.",
-      "you_are_eligible":
-        "Olet vaalikelpoinen oman laitoksesi ja tiedekunnan vaaleissa (Ylioppilaskunnan säännöt hallinnon opiskelijaedustajien vaalista 5 §).",
       "in_case_of_problem":
         "Jos tiedoissa on epäselvyyksiä, ota yhteys ylioppilaskuntaan.",
       "voter": {
