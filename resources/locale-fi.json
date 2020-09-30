@@ -144,8 +144,8 @@
       "page_title": "Äänestä",
 
       "error": {
-        "something_went_wrong": "Kävi hassusti",
-        "could_not_load_candidates": "Ehdokastietojen lataaminen epäonnistui.",
+        "something_went_wrong": "Istunto vahnentui",
+        "could_not_load_candidates": "Ehdokastietojen näyttäminen ei onnistunut.",
         "try_again": "Kirjaudu ulos ja yritä kirjautua uudelleen sisään.",
         "button_caption": "Yritä uudelleen"
       },

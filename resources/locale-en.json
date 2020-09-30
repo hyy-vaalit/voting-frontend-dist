@@ -144,9 +144,9 @@
       "page_title": "Vote",
 
       "error": {
-        "something_went_wrong": "Something happened",
-        "could_not_load_candidates": "Candidates could not be loaded.",
-        "try_again": "Sign out and retry to signing in.",
+        "something_went_wrong": "Session expired",
+        "could_not_load_candidates": "Candidate list could not be displayed.",
+        "try_again": "Sign out and try again.",
         "button_caption": "Try again"
       },
 
