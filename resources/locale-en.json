@@ -2,7 +2,7 @@
   "index": {
     "menu": {
       "title": "Council Elections 2020",
-      "sign_up": "Sign Up",
+      "sign_up": "Sign In",
       "elections": "Vote",
       "profile": "Eligibility",
       "sign_out": "Sign Out"
@@ -65,16 +65,16 @@
     },
 
     "sign_up": {
-      "page_title": "Sign Up",
+      "page_title": "Sign In",
       "attention": "Please note!",
       "voting_days_are": "The voting days are {{ firstPeriod }} and {{ secondPeriod }}",
       "voting_open_hours_are": "Voting is open between {{ range }} on each voting day.",
-      "primary_button_caption": "Sign Up",
+      "primary_button_caption": "Sign In",
       "if_cannot_sign_in": "If you cannot access your university user account or signing up fails for some reason, please contact the election staff {{ name }}, {{ email }}, {{ phone }}.",
       "sign_in_is_not_active": "Voting is not open at the moment.",
 
       "edari": {
-        "eligibility": "You have a voting right if you have enrolled in and paid the member fee of the Student Union. You can sign up to vote by using your Helsinki University user account.",
+        "eligibility": "You have a voting right if you have enrolled in and paid the member fee of the Student Union. You can sign in to vote by using your Helsinki University user account.",
 
         "late_member_note": "If you enrolled in just recently, your student number might not yet be in the list of people with voting rights. In that case you will receive a message after signing in that you don't have a voting right. Your voting right can be created if you proof your payment of the Student Union's member fee at the office of the Student Union."
       },
@@ -162,6 +162,7 @@
         "submitting": "Voting .."
       },
 
+      "coalition-index-title": "Electoral Coalitions",
       "coalition-index-text": "Coalitions consist of alliances and alliances consist of candidates.",
       "voting-right-already-used": "You have voted at",
       "vote-has-been-cast": "Your vote is now recorded!",
