@@ -1,7 +1,7 @@
 {
   "index": {
     "menu": {
-      "title": "Edustajistovaalit 2020",
+      "title": "Edustajistovaalit 2022",
       "sign_up": "Kirjaudu",
       "elections": "Äänestä",
       "profile": "Omat Tiedot",
@@ -16,7 +16,7 @@
         "Kirjaudu sisään Helsingin yliopiston käyttäjätunnuksellasi.",
       "voting_opening_hours": "Äänestäminen on avoinna klo {{ open }} - {{ close }}.",
       "voting_opens_at": "Äänestäminen avautuu",
-      "voting_has_ended": "Äänestys on päättynyt",
+      "voting_has_ended": "Äänestys on päättynyt.",
       "result_will_be_published_at": "Tulos julkistetaan osoitteessa",
       "voting_continues_at": "Äänestys jatkuu {{ day }} klo {{ time }}",
       "button_caption_vote": "Äänestämään!"
