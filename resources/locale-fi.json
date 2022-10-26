@@ -213,12 +213,14 @@
       "ingress":
         "HYYn edustajistovaaleissa valitaan ylioppilaskunnan ylin päättävä elin, 60-henkinen edustajisto. Äänioikeutettuja ovat HYYn jäsenet eli noin 26 000 Helsingin yliopiston opiskelijaa.",
       "election_dates_explained":
-        "Äänestyspäivät ovat {{ firstPeriod }} ja {{ secondPeriod }}. Äänestys on avoinna klo {{ range }}."
+        "Äänestyspäivät ovat {{ firstPeriod }} ja {{ secondPeriod }}. Äänestys on avoinna klo {{ range }}.",
+      "hyy_election_results_and_stats_caption": "Vaalitulos ja tilastot"
     },
 
     "contact": {
       "more_info": "Lisätietoa",
       "hyy_ae_link_caption": "HYYn hallintovaalisivusto",
+      "hyy_election_results_and_stats_caption": "Vaalitulos ja tilastot",
       "hyy_election_link_caption": "HYYn vaalisivusto",
       "in_case_of_fire": "Ongelmatilanteessa ota yhteys HYYn vaalikoordinaattoriin"
     }
