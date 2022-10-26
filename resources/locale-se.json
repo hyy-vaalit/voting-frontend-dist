@@ -146,8 +146,7 @@
       "error": {
         "something_went_wrong": "Session har utgått",
         "could_not_load_candidates": "Kandidat list kunde inte visas.",
-        "try_again": "Logga ut och försök igen att logga in.",
-        "button_caption": "Försök igen"
+        "button_caption": "Logga in igen"
       },
 
       "vote-ballot": {
