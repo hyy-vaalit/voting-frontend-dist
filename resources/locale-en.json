@@ -214,7 +214,8 @@
         "HYY’s Representative Council elections are conducted to elect 60 members into the council, the highest decision-making body of the Student Union. All HYY’s members, around 26,000 students at the University of Helsinki, have the right to vote in the elections.",
       "election_dates_explained":
         "Election days are {{ firstPeriod }} and {{ secondPeriod }}. Voting is open during {{ range }}.",
-      "hyy_election_results_and_stats_caption": "Results and statistics"
+      "hyy_election_results_and_stats_caption": "Results and statistics",
+      "hyy_election_link_caption": "Student Union's info page"
     },
 
     "contact": {
